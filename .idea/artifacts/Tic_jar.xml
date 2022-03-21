@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Tic:jar">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="Tic.jar">
+      <element id="module-output" name="Tic" />
+    </root>
+  </artifact>
+</component>
